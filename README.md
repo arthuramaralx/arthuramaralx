@@ -17,3 +17,4 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arthur-amaral-60574018b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arthur-amaral-60574018b/" height="30" width="40" /></a>
 </p>
+<p>Alguns dos meus trabalhos em react estão em repositórios de terceiros, entre em contato comigo para vê-los.</p>
