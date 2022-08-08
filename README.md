@@ -3,7 +3,7 @@
 
 
 
-<h4 align="left"> ☕ Estou atualmente criando projetos em Back-end com node.js, Express e postgreSQL </h4>
+<h4 align="left"> ☕ Estou atualmente estudando Back-end com node.js, Express e postgreSQL </h4>
 <h4 align="left"> Meu portifólio: https://arthuramaral-dev.vercel.app/ </h4>
 <h4 align="left">Email: arthuramaralx@outlook.com </h4>
 
