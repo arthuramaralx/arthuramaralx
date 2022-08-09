@@ -8,7 +8,7 @@
 <h4 align="left">Email: arthuramaralx@outlook.com </h4>
 
 
-<div display="flex">
+<div display="inline">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthuramaralx&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="arthuramaralx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthuramaralx&show_icons=true&theme=tokyonight&locale=en" alt="arthuramaralx" /></p>
