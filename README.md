@@ -12,10 +12,10 @@
 
 ### Python Developer · Automação de Processos & Integrações · Backend
 
-[![Location](https://img.shields.io/badge/📍_Belém,_Brasil-0a0e0f?style=flat-square&labelColor=0a0e0f&color=00e5a0)](https://github.com/seu-usuario)
-[![Experience](https://img.shields.io/badge/4%2B_anos_de_experiência-0a0e0f?style=flat-square&color=00e5a0)](https://github.com/seu-usuario)
-[![Remote](https://img.shields.io/badge/🌐_Open_to_Remote-0a0e0f?style=flat-square&color=0099ff)](https://github.com/seu-usuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
+[![Location](https://img.shields.io/badge/📍_Belém,_Brasil-1a1a2e?style=flat-square&labelColor=1a1a2e&color=1a7a5e)](https://github.com/arthuramaralx)
+[![Experience](https://img.shields.io/badge/4%2B_anos_de_experiência-1a1a2e?style=flat-square&color=1a7a5e)](https://github.com/arthuramaralx)
+[![Remote](https://img.shields.io/badge/🌐_Open_to_Remote-1a1a2e?style=flat-square&color=0099ff)](https://github.com/arthuramaralx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthuramaralx/)
 
 </div>
 
@@ -99,9 +99,9 @@ React             █████████████░░░░░░░�
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=merko&hide_border=true&bg_color=0a0e0f&title_color=00e5a0&icon_color=00e5a0&text_color=d4dde0)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthuramaralx&show_icons=true&theme=merko&hide_border=true&bg_color=0a0e0f&title_color=00e5a0&icon_color=00e5a0&text_color=d4dde0)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=merko&hide_border=true&bg_color=0a0e0f&title_color=00e5a0&text_color=d4dde0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthuramaralx&layout=compact&theme=merko&hide_border=true&bg_color=0a0e0f&title_color=00e5a0&text_color=d4dde0)
 
 </div>
 
@@ -111,9 +111,9 @@ React             █████████████░░░░░░░�
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthuramaralx/)
+[![Outlook](https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:arthuramaralx@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthuramaralx)
 
 ---
 
