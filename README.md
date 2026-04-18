@@ -26,7 +26,7 @@
 ```python
 developer = {
     "name":       "Arthur",
-    "role":       "Python Developer | RPA & Automação",
+    "role":       "Python Developer | RPA & Backend",
     "location":   "Belém, Brasil 🇧🇷",
     "experience": "4+ anos",
     "focus":      ["Automação de Processos", "Integrações", "Backend APIs"],
