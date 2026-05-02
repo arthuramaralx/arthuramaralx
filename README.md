@@ -99,11 +99,9 @@ React             █████████████░░░░░░░�
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthuramaralx&show_icons=true&theme=merko&hide_border=true&bg_color=0a0e0f&title_color=00e5a0&icon_color=00e5a0&text_color=d4dde0&cache_seconds=1800&rank_icon=github)
+[![GitHub Streak](https://streak-stats.demolab.com?user=arthuramaralx&theme=merko&hide_border=true&background=0a0e0f&ring=00e5a0&fire=00e5a0&currStreakLabel=00e5a0&sideLabels=d4dde0&dates=d4dde0&sideNums=00e5a0&currStreakNum=00e5a0)](https://github.com/arthuramaralx)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthuramaralx&layout=compact&theme=merko&hide_border=true&bg_color=0a0e0f&title_color=00e5a0&text_color=d4dde0&cache_seconds=1800&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=arthuramaralx&theme=merko&hide_border=true&background=0a0e0f&ring=00e5a0&fire=00e5a0&currStreakLabel=00e5a0)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arthuramaralx&theme=merko&bg_color=0a0e0f&color=00e5a0&line=00e5a0&point=ffffff&hide_border=true)](https://github.com/arthuramaralx)
 
 </div>
 
